@@ -1,9 +1,6 @@
 # Ahasas Yadav Portfolio
 
-This repository serves as a centralized index of my embedded systems work completed during
-professional certifications, coursework, and hands-on projects.
-All repositories listed below contain implementations developed by me for learning,
-experimentation, and practical application.
+This repository serves as a centralized index of my embedded systems work completed during professional certifications, coursework, and hands-on projects. All repositories listed below contain implementations developed by me for learning, experimentation, and practical application.
 
 ---
 
@@ -66,6 +63,14 @@ Topics: Bootloaders, Host Applications, Flash Memory Architecture
 
 ---
 
+### Embedded Linux and Driver Development
+Topics: Linux Kernel Modules, Character Drivers, Platform Bus, Device Tree (DTS), Cross-Compilation
+
+- Linux Custom Driver Development Projects
+  https://github.com/Ahasas101/Linux_Custom_driver_development
+
+---
+
 ## Projects
 
 ### Echo Eyes
@@ -96,8 +101,7 @@ Type: Pure Hardware-Based Project
 Type: Major Project (Collaboration)  
 Role: Hardware and Firmware Development
 
-- STM32-based intelligent overspeed detection system integrating GPS and GSM
-  for real-time monitoring and violation reporting  
+- STM32-based intelligent overspeed detection system integrating GPS and GSM for real-time monitoring and violation reporting  
   https://github.com/Ahasas101/SAVER
 
 ---
@@ -105,7 +109,7 @@ Role: Hardware and Firmware Development
 ## About Me
 
 Name: Ahasas Yadav  
-Domain: Embedded Systems and Firmware Development  
+Domain: Embedded Systems and Firmware Development
 
-GitHub: https://github.com/Ahasas101  
+GitHub: https://github.com/Ahasas101
 LinkedIn: https://www.linkedin.com/in/ahasas-yadav-188582291/
