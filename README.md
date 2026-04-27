@@ -1,4 +1,4 @@
-# Embedded Systems Portfolio
+# Ahasas Yadav Portfolio
 
 This repository serves as a centralized index of my embedded systems work completed during
 professional certifications, coursework, and hands-on projects.
